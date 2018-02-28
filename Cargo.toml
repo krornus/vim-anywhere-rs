@@ -1,0 +1,11 @@
+[package]
+name = "vim-anywhere"
+version = "0.1.0"
+authors = ["krornus <krornus@gmail.com>"]
+
+[dependencies]
+clipboard = "0.4.6"
+chrono = "0.4"
+shlex = "0.1.1"
+libc = "0.2"
+
